@@ -250,8 +250,8 @@ streamlit run app.py
 <h2>👨‍💻 Author</h2>
 
 <p>
-<strong>Sumit Kumar</strong><br>
-B.Tech, National Institute of Technology Kurukshetra<br>
+<strong>Vaishnavi Palla</strong><br>
+B.Tech, Aditya College of Engineering Technology Surampalem<br>
 Machine Learning | Web Development | Open Source Enthusiast
 </p>
 
